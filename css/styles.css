@@ -279,7 +279,7 @@ footer {
     text-align: center
 }
 
-#lead-content h1, #lead-content h2 {
+#lead-content h1, #lead-content h2, #lead-content h3 {
     margin: 0
 }
 
@@ -792,6 +792,9 @@ footer {
     #lead-content h2 {
         font-size: 1.75em
     }
+    #lead-content h3 {
+        font-size: 1.25em
+    }
     #about {
         text-align: center
     }
@@ -829,6 +832,9 @@ footer {
     #lead-content h2 {
         font-size: 1.3em
     }
+    #lead-content h3 {
+        font-size: 1em
+    }
     #lead-content a {
         padding: 10px 20px
     }
@@ -862,6 +868,9 @@ footer {
     }
     #lead-content h2 {
         font-size: 1em
+    }
+    #lead-content h3 {
+        font-size: 0.75em
     }
     #lead-content a {
         font-size: 0.9em;
